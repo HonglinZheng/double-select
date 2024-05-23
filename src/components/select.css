@@ -1,0 +1,10 @@
+.selecters{
+    padding:60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+h1{
+    font-size: 40px;
+    margin: 60px;
+}
